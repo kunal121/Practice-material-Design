@@ -1,0 +1,35 @@
+.panel {
+  background-color: #222629;
+  height: 10%;
+  margin-bottom: 0%;
+  border-radius: 0;
+}
+.mainupper{
+  background-color: #222629;
+  height: 100%;
+
+
+}
+.row {
+  margin-bottom: 0px;
+}
+.content{
+  color: white;
+  margin-left: 45%;
+  margin-top: 20%;
+}
+.icon{
+  color: white;
+}
+.name{
+  color: white;
+  font-size: 2em;
+  padding-left: 40%;
+  margin-top:20%;
+}
+.role {
+  padding-left: 45%;
+  color: white;
+  font-size: 1.5em;
+
+}
